@@ -1,0 +1,21 @@
+{
+  "data": {
+    "users": {
+      "jorge": {
+        "id": 1
+      },
+      "luiz": {
+        "id": 2
+      },
+      "carlos": {
+        "id": 3
+      },
+      "pedro": {
+        "id": 4
+      },
+      "xande": {
+        "id": 5
+      }
+    }
+  }
+}
